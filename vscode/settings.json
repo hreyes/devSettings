@@ -1,0 +1,48 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on",
+    "sonarlint.pathToNodeExecutable": "/usr/bin/node16",
+    "sonarlint.ls.javaHome": "/usr/lib64/jvm/java-11-openjdk-11",
+    "sonarlint.output.showVerboseLogs": true,
+    "sonarlint.output.showAnalyzerLogs": true,
+    "php-intellisense.trace.server": "messages",
+    "php.executablePath": "/usr/bin/php",
+    "php.debug.executablePath": "/usr/bin/php",
+    "php-cs-fixer.autoFixBySemicolon": true,
+    "php-cs-fixer.executablePath": "/usr/bin/php-cs-fixer",
+    "php-cs-fixer.formatHtml": true,
+    "php-cs-fixer.onsave": true,
+    "git.autofetch": true,
+    "php.validate.executablePath": "/usr/bin/php",
+    "php-cs-fixer.rules": "@PSR2",
+    "sonarlint.connectedMode.connections.sonarqube": [
+        {
+            "serverUrl": "http://192.168.0.101:9000/sonar",
+            "connectionId": "VS Code"
+        }
+    ],
+    "editor.wordWrapColumn": 50,
+    "diffEditor.wordWrap": "on",
+    "editor.linkedEditing": true,
+    "editor.minimap.enabled": true,
+    "editor.suggest.preview": true,
+    "editor.rulers": [
+        100,110,120
+    ],
+    "editor.minimap.size": "fit",
+    "editor.minimap.maxColumn": 70,
+    "editor.minimap.autohide": true,
+    "editor.stickyScroll.enabled": true,
+    "sonarlint.trace.server": "off",
+    "sonarlint.disableTelemetry": true,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.renderWhitespace": "boundary",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "debug.javascript.debugByLinkOptions": "always",
+    "liveServer.settings.port": 5500,
+    "vscode-edge-devtools.browserFlavor": "Default",
+    "liveServer.settings.NoBrowser": true,
+}
+
